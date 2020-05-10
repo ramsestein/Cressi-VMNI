@@ -2,6 +2,16 @@
 
 Valvula para mascaras subacuaticas modelo Decathlon y Cressi.
 
+### Modelo Cressi Duke
+
+<img src="./Cressi%20DUKE/CONECTOR%20USO%20PACIENTES/CONECTOR_DUKE_RACORD_O2.jpg" width="500">
+
+### Modelo Decathlon Charlotte
+
+pendiente.jpg
+
+### Instrucciones
+
 Imprimir en **PETG incoloro** o **PA12**. Qualquier otro material no es recomendable por no disponer de la acreditacion relativa a biocompatibilidad y citotoxicidad.
 
 En caso de usar PETG la pieza deber ser esterilizada mediante lejia 20% u otro agente quimico que no ataque al PETG. En caso de usar PA12, la pieza podra ser esterilizada mediante metodos termicos (autoclave).
