@@ -25,7 +25,7 @@ El equipo de **Coronavirus Makers** realizo algunas modificaciones para:
 3. Mejorar el cierre con la mascara
 
 
-El equipo de [Antwerp Design Factory](https://antwerpdesignfactory.be/decathlon.html), realizo un estudio en el que __NO recomendaba su uso como equipo de protección__. Dicho estudio se encuentra actualemten (Abril 2020) en revisión a raiz de nuevos datos.
+El equipo de [Antwerp Design Factory](https://antwerpdesignfactory.be/decathlon.html), realizo un estudio en el que __NO recomendaba su uso como equipo de protección__. Dicho estudio se encuentra actualmente (Abril 2020) en revisión a raiz de nuevos datos.
 
 No obstante, su __uso para paciente si esta recomendado__ tal y como evidencian los ensayos del [Parc Tauli](http://www.tauli.cat/institut/plataformes-i-serveis/laboratori-3d/covid-3d/cataleg/#3dpt021).
 
